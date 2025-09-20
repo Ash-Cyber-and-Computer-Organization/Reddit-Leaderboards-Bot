@@ -1,4 +1,4 @@
-<!--- 123456 -->
+<!--- 1234567 -->
 # Reddit Leaderboard Bot
 
 ## Overview
