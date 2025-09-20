@@ -1,4 +1,4 @@
-<!--- 1-->
+<!--- 12 -->
 # Reddit Leaderboard Bot
 
 ## Overview
