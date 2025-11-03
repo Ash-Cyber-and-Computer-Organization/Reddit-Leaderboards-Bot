@@ -5,7 +5,7 @@
 The Reddit Leaderboard Bot is an automated script designed to post leaderboard rankings to multiple subreddit communities at scheduled times. The bot tracks top contributors and posts updates, enhancing engagement in Reddit communities.
 
 ## Features
-- ✅ **Automated Leaderboard Posting** – Posts leaderboards to specified subreddits at optimal times.
+-  **Automated Leaderboard Posting** – Posts leaderboards to specified subreddits at optimal times.
 - 🔄 **Multi-Subreddit Support** – Schedule leaderboard posts for different communities.
 - ⏰ **Custom Scheduling** – Uses `schedule` to post at specific times.
 - 🔒 **Secure Credentials Handling** – Uses `.env` file to store API credentials securely.
